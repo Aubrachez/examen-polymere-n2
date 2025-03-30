@@ -6,8 +6,9 @@ MMw=0
 R = 8.314 # constante des gaz parfaits (J/(mol*K))
 print("Réponse pour le calcul du MMn et MMw ainsi que l'écart de température par la méthode ébullioscopique")
 print("Version 1.0")
-
-
+print(" ")
+print(" ")
+print(" ")
 ### variable calcul MMn et MMw
 x=12
 ########## nomnbre d'unité et ensuite la valeur par laquelle x est multiplié
